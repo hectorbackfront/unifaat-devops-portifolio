@@ -10,7 +10,7 @@
 
 ## Comandos Docker praticados
 
-- [docker build -t, docker run -d, docker ps, ]
+- [docker build -t, docker run -d, docker ps, docker stop, docker rm]
 
 ## Como executar este container
 
